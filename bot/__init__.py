@@ -85,7 +85,7 @@ START_OTHER_USERS_TEXT = get_config(
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
         "This is an Open Source Project available on "
-        "https://github.com/shamilhabeebnelli/Session"
+        "https://github.com/shamilhabeebnelli/Session/n"
         "ℹ️ Subscribe @redbullfed @movieworldkdy if you 😍 using this bot❗️❣️"
     )
 )
