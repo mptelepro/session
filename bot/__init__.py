@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
+# (c) Shamilhabeeb
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -85,8 +85,8 @@ START_OTHER_USERS_TEXT = get_config(
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
         "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "https://github.com/shamilhabeebnelli/SessionMakerBot\n"
+        "ℹ️ Subscribe @redbullfed @movieworldkdy if you 😍 using this bot❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
