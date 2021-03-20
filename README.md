@@ -1,6 +1,5 @@
 # ~~yet another~~ Pyrogram String Session Maker
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a4ef83e3a64a92b24d855aaed05c3a)](https://www.codacy.com/gh/SpEcHIDe/SessionMakerBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SpEcHIDe/SessionMakerBot&amp;utm_campaign=Badge_Grade) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SpEcHIDe/SessionMakerBot) ![Repo Size](https://img.shields.io/github/repo-size/SpEcHIDe/SessionMakerBot)
 
 
 ### Setup
@@ -15,7 +14,7 @@
 
 ## Credits, and Thanks to
 
-* [ThankTelegram](https://telegram.dog/ThankTelegram)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Bot Assistance](https://telegram.dog/shamilhelpbot)
+* [me on telegram](https://telegram.dog/shamilnelli) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [pokurt](https://github.com/pokurt) for his [PyroGram Session Maker](https://github.com/pokurt/Pyrogram-SessionMaker-Bot)
-* [SpEcHIDe](https://gitlab.com/SpEcHIDe) for his [Telethon String Session Generator](https://gitlab.com/spechide/GetUniBorgBot)
+* [Shamil Habeeb](https://github.com/shamilhabeebnelli) for his [Telethon String Session Generator](https://t.me/stringsessionerbot)
