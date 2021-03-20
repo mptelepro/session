@@ -8,7 +8,7 @@
         "modular",
         "productivity"
     ],
-    "repository": "https://github.com/SpEcHiDe/SessionMakerBot",
+    "repository": "https://github.com/shamilhabeebnelli/sessionmakerbot",
     "website": "https://telegram.dog/UniBorg",
     "success_url": "https://t.me/UniBorg/55",
     "env": {
