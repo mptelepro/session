@@ -85,8 +85,8 @@ START_OTHER_USERS_TEXT = get_config(
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
         "This is an Open Source Project available on "
-        "https://github.com/shamilhabeebnelli/Session/n"
-        "ℹ️ Subscribe @redbullfed @movieworldkdy if you 😍 using this bot❗️❣️"
+        "https://t.me/mpazaanbot/n"
+        "ℹ️ Subscribe @mpazaanbots @Movescompany if you 😍 using this bot❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -135,13 +135,13 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
     "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
+    "https://t.me/mpazaanbot and not "
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
     "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
+    "https://t.me/mpazaanbot\n\n\n"
     "👆👆👆 String Session successfully generated 👆👆👆"
 ))
 #!/usr/bin/env python3
@@ -292,9 +292,9 @@ START_OTHER_USERS_TEXT = get_config(
 
         "This is an Open Source Project available on "
 
-        "https://github.com/shamilhabeebnelli/Session/n"
+        "https://t.me/mpazaanbot/n"
 
-        "ℹ️ Subscribe @redbullfed @movieworldkdy if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe @mpazaanbot @Movescompany if you 😍 using this bot❗️❣️"
 
     )
 
